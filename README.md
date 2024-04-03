@@ -8,3 +8,6 @@ Incluir un archivo **'.gitignore'** es conveniente porque mantiene tu proyecto l
 Se debe crear un archivo **'.gitignore'** tan pronto como se comience un nuevo proyecto de desarrollo. Es mejor hacerlo al principio para evitar agregar accidentalmente archivos no deseados al repositorio. Sin embargo, si no se lo crea al principio, siempre se puede crearlo mas tarde y agregar las reglas necesarias para evitar problemas en el futuro.
 - ### ¿Cómo configuraría el archivo .gitignore?
 Hay configuraciones generales para un archivo **'.gitignore'** que cubre muchos casos comunes en diferentes tipos de proyectos. Sin embargo, siempre es recomendable revisar y ajustar el archivo **'.gitignore'** segun las necesidades especificas del proyecto.
+
+- ### Punto 3 apartado g
+El apartado 2 y 3 son iguales porque en ambos casos acceden a la misma direccion de memoria (en este caso seria de la variable aux), y el apartado 4 es diferente ya que accede a la direccion de memoria donde esta almacenado el puntero.
